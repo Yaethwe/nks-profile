@@ -1,0 +1,1 @@
+location.href="https://challenger7.netlify.app/personalprofile/"
